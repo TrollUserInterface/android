@@ -5,8 +5,8 @@
            fetch="https://github.com"
            review="review.lineageos.org" />
 
-  <remote name="viper"
-           fetch="https://github.com/Viper-Project/"
+  <remote name="ecem"
+           fetch="https://github.com/TrollUserInterface/"
            revision="nougat" />
 
   <remote  name="private"
@@ -20,7 +20,7 @@
   <default revision="cm-14.1"
            remote="github"
            sync-c="true"
-           sync-j="4" />
+           sync-j="64" />
 
   <!-- AOSP And LineageOS Projects -->
 
@@ -472,6 +472,6 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
 
   <include name="snippets/cm.xml" />
-  <include name="snippets/viper.xml" />
+  <include name="snippets/ecem.xml" />
 
 </manifest>
