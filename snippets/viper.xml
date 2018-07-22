@@ -29,8 +29,8 @@
     <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="ecem" />
     <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="ecem" />
     <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="ecem" />
-    <project path="packages/apps/Venom" name="android_packages_apps_Ecem" remote="ecem" />
-    <project path="packages/apps/ViperOTA" name="android_packages_apps_EcemOTA" remote="ecem" />
+    <project path="packages/apps/Ecem" name="android_packages_apps_Ecem" remote="ecem" />
+    <project path="packages/apps/EcemOTA" name="android_packages_apps_EcemOTA" remote="ecem" />
     <project path="packages/apps/FMRadio" name="android_packages_apps_FMRadio" remote="ecem" />
     <project path="packages/apps/MusicFX" name="android_packages_apps_MusicFX" remote="ecem" />
     <project path="packages/apps/DSPlibs" name="android_packages_apps_DSPlibs" remote="ecem" />
@@ -55,7 +55,7 @@
 
     <!-- Vendor -->
     <project path="vendor/cmsdk" name="android_vendor_cmsdk" remote="ecem" />
-    <project path="vendor/ecem" name="android_vendor_viper" remote="ecem" />
+    <project path="vendor/ecem" name="android_vendor_ecem" remote="ecem" />
 
     <!-- Reference projects -->
     <project path="packages/apps/VPapers" name="android_packages_apps_VPapers" remote="ecem" />
