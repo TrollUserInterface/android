@@ -17,7 +17,7 @@ Initiate core trees without any device/kernel/vendor:
 
 Sync the repository:
 
-    $ repo sync -c -f -j64 --force-sync --no-clone-bundle --no-tags
+    $ repo sync -j64
 
 ***
 
