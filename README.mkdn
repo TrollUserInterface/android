@@ -1,7 +1,7 @@
 Ecem User Interface
 ===============
 
-![EcemUI](https://i.hizliresim.com/VD3Vbj.png)
+![EcemUI](https://github.com/TrollUserInterface/android/blob/nougat/VD3Vbj.png)
 
 Download the Source
 ===================
@@ -13,7 +13,7 @@ Initializing Repository
 
 Initiate core trees without any device/kernel/vendor:
 
-    $ repo init -u https://github.com/EcemUserInterface/android.git -b nougat
+    $ repo init -u https://github.com/TrollUserInterface/android.git -b nougat
 
 Sync the repository:
 
