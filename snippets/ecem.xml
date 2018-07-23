@@ -58,6 +58,6 @@
     <project path="vendor/ecem" name="android_vendor_ecem" remote="ecem" />
 
     <!-- Reference projects -->
-    <project path="packages/apps/VPapers" name="android_packages_apps_VPapers" remote="ecem" />
+    <project path="packages/apps/EcemPapers" name="android_packages_apps_EcemPapers" remote="ecem" />
 
 </manifest>
